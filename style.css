@@ -45,7 +45,6 @@ button{
 
 .tasks{
   padding: 1rem 0;
-  border: 1px solid red;
   list-style: none;
 }
 
@@ -54,5 +53,4 @@ button{
   list-style: none;
   width: 100%;
   float: inherit;
-  border: 1px solid red;
 }
